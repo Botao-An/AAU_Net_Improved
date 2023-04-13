@@ -4,7 +4,7 @@
 
    
 
-2. Compared with the original **Code**[https://github.com/Botao-An/AAU_Net], we improved the loss functions of AAU-Net and solved the problem of instability during training. The referred paper is "**Wasserstein Auto-Encoders**"
+2. Compared with the original **Code**[https://github.com/Botao-An/AAU_Net], Zhi Cao[cyfbxl1@gmail.com] improved the loss functions of AAU-Net and solved the problem of instability during training. The referred paper is "**Wasserstein Auto-Encoders**"
 
    
 
